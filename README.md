@@ -4,7 +4,7 @@ Run Directly From Your Browser **[Run Now](https://www.programiz.com/online-comp
 
 
 ## ⬇️ Download:
-Windows users can download the pre-compiled executable from the **[Latest Release](https://github.com/ibrahimgamal765lt/GPA-Calculator/releases/tag/v1.0.0)**. 
+Windows users can download the pre-compiled executable from the **[Latest Release](https://github.com/ibrahimgamal765lt/Task-Scheduler/releases/tag/v1.0.0)**. 
 
 A simple Task Scheduler built using C++ and the STL `priority_queue` data structure.
 The program allows users to add tasks with different priorities, display tasks sorted by priority, and execute the highest-priority task first.
